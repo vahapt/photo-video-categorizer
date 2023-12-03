@@ -23,8 +23,9 @@
 hs_err_pid*
 replay_pid*
 
-# Eclipse / Maven related
+# Manually added
 /.classpath
 /.project
 /target/
 /.settings/
+/lib/
